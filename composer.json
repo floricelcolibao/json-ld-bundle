@@ -13,8 +13,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "symfony/framework-bundle": "~2.8|~3.0",
-        "symfony/dependency-injection": "~2.8|~3.0",
+        "symfony/framework-bundle": "~2.4",
+        "symfony/dependency-injection": "~2.4",
         "secit-pl/schema-org": "^3.3.2"
     },
     "autoload": {
